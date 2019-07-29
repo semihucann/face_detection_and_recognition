@@ -6,7 +6,7 @@
 
 ![](https://github.com/semihucann/face_Authentication_with_LBPH/blob/master/algo.jpg)
 
-##### More information about the alorithm
+##### More information about the algorithm
 [Face Recognition: Understanding LBPH Algorithm](https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b)
 
 ## Usage
